@@ -8,7 +8,9 @@ I'm a high school student and a mobile app developer.
 
 I also sometimes make web apps and plugins. 
 
-## Languages
+## Skills
+
+### Languages
 
 - 🦅 Swift
 - 🟡 JavaScript / TypeScript
@@ -16,8 +18,16 @@ I also sometimes make web apps and plugins.
 - 🇯🇵 Japanese
 - 🇬🇧 English (a little)
 
-## Frameworks
+### Frameworks
 
 - 🦅 Storyboard & SwiftUI
 - ⚛️ React
 - 🟢 Vue.js
+
+## Environment
+
+- macOS
+- Fish Shell
+- Xcode
+- VSCode
+- NeoVim (✏️ Learning)
