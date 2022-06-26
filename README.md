@@ -1,3 +1,5 @@
+![](./media/fusion.png)
+
 [![Twitter followers](https://img.shields.io/twitter/follow/fus1ondev?label=Twitter%20followers&logo=twitter&style=flat)](https://twitter.com/fus1ondev) [![Qiita posts](https://qiita-badge.apiapi.app/s/fus1ondev/posts.svg)](http://qiita.com/fus1ondev) [![Zenn likes](https://zenn.badge.nikaera.com/s/fus1ondev/likes?style=flat)](https://zenn.dev/fus1ondev) [![Zenn articles](https://zenn.badge.nikaera.com/s/fus1ondev/articles?style=flat)](https://zenn.dev/fus1ondev/articles) [![Zenn followers](https://zenn.badge.nikaera.com/s/fus1ondev/followers?style=flat)](https://zenn.dev/fus1ondev/followers) ![](https://komarev.com/ghpvc/?username=fus1ondev&style=flat)
 
 <p align="center">
