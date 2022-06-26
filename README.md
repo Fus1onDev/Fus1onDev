@@ -34,5 +34,5 @@ I also sometimes make web apps and plugins.
 
 <p align="center">
   <img align="center" alt="Luke's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fus1onDev&count_private=true&show_icons=true" width="52%"  />
-  <img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fus1ondev&layout=compact&langs_count=10" width="43%" />
+  <img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fus1ondev&layout=compact&langs_count=6" width="43%" />
 </p>
